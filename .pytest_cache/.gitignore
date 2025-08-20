@@ -1,0 +1,18 @@
+# Created by pytest automatically.
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Data
+data/processed/
+*.csv
+
+# IDE
+.vscode/
+.idea/

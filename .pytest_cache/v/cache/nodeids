@@ -1,0 +1,4 @@
+[
+  "tests/test_pipeline.py::test_cleaning_and_features",
+  "tests/test_pipeline.py::test_train_predict_evaluate_and_persist"
+]
